@@ -1,0 +1,6 @@
+exclude:
+- /java-checks/src/test/files/
+component_depth: 1
+languages:
+- java
+- javascript
