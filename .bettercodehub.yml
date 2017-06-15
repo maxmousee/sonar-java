@@ -1,5 +1,6 @@
 exclude:
-- /java-checks/src/test/files/
+- /java-checks/src/test/files/.*
+- /java-frontend/src/test/filesInError/.*
 component_depth: 1
 languages:
 - java
